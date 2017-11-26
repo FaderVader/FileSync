@@ -1,0 +1,35 @@
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\bin\Release\FileSync.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\bin\Release\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\bin\Release\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\bin\Release\log4net.dll
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\bin\Release\log4net.xml
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\obj\Release\FileSync.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\obj\Release\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\obj\Release\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\bin\Release\FileSync.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\obj\Release\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\obj\Release\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Release\FileSync.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\obj\Release\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\obj\Release\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Release\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Release\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Release\log4net.dll
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Release\log4net.xml
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\obj\Release\FileSync.csprojResolveAssemblyReference.cache
+C:\temp\FileSync\FileSync\bin\Release\FileSync.exe.config
+C:\temp\FileSync\FileSync\obj\Release\FileSync.exe
+C:\temp\FileSync\FileSync\obj\Release\FileSync.pdb
+C:\temp\FileSync\FileSync\bin\Release\FileSync.exe
+C:\temp\FileSync\FileSync\bin\Release\FileSync.pdb
+C:\temp\FileSync\FileSync\bin\Release\log4net.dll
+C:\temp\FileSync\FileSync\bin\Release\log4net.xml
+C:\temp\FileSync\FileSync\obj\Release\FileSync.csprojResolveAssemblyReference.cache
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\bin\Release\FileSync.exe.config
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\obj\Release\FileSync.exe
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\obj\Release\FileSync.pdb
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\bin\Release\FileSync.exe
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\bin\Release\FileSync.pdb
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\bin\Release\log4net.dll
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\bin\Release\log4net.xml
+C:\GoogleDrive\VS_PROJECTS\FileSync\FileSync\obj\Release\FileSync.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSync", "FileSync\FileSync.csproj", "{0E60D221-2B66-4C09-83EA-5F33281FEE8C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "SetupWizard\Setup\Setup.vdproj", "{C2A4E8C1-3EBA-44F1-8D6C-DD2A330AE737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E60D221-2B66-4C09-83EA-5F33281FEE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E60D221-2B66-4C09-83EA-5F33281FEE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E60D221-2B66-4C09-83EA-5F33281FEE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E60D221-2B66-4C09-83EA-5F33281FEE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A4E8C1-3EBA-44F1-8D6C-DD2A330AE737}.Debug|Any CPU.ActiveCfg = Debug
+		{C2A4E8C1-3EBA-44F1-8D6C-DD2A330AE737}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

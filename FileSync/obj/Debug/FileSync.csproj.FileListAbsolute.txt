@@ -1,0 +1,42 @@
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync\FileSync\bin\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync\FileSync\bin\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync\FileSync\obj\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync\FileSync\obj\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v2\FileSync\obj\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v2\FileSync\obj\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v2\FileSync\bin\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v2\FileSync\bin\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v2\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v3\FileSync\obj\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v3\FileSync\obj\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v3\FileSync\bin\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v3\FileSync\bin\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v3\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\obj\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\obj\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\bin\Debug\FileSync.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\bin\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\bin\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\bin\Debug\log4net.dll
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\bin\Debug\log4net.xml
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v4\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\bin\Debug\FileSync.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\obj\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\FileSync\FileSync\obj\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\bin\Debug\FileSync.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\obj\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\obj\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\bin\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\bin\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\bin\Debug\log4net.dll
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\bin\Debug\log4net.xml
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v5\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Debug\FileSync.exe.config
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\obj\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\obj\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Debug\FileSync.exe
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Debug\FileSync.pdb
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Debug\log4net.dll
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\bin\Debug\log4net.xml
+F:\GOOGLEDRIVE\VS_PROJECTS\TESTING\FileSync - v6\FileSync\obj\Debug\FileSync.csprojResolveAssemblyReference.cache

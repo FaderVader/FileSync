@@ -1,0 +1,185 @@
+2016-12-22 00:59:58,545 INFO FileSync.Program - Running FileSync
+2016-12-22 00:59:58,637 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 00:59:58,652 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 00:59:58,666 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 00:59:58,680 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 00:59:58,684 INFO FileSync.Program - Program End.
+2016-12-22 01:00:55,270 INFO FileSync.Program - Running FileSync
+2016-12-22 01:00:55,351 INFO FileSync.GetFileList - Error occurred during directory-scan @ path F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:01:31,319 INFO FileSync.Program - Running FileSync
+2016-12-22 01:01:31,408 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:01:31,423 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:01:31,428 INFO FileSync.GetFileList - Error occurred during directory-scan @ path F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:02:16,546 INFO FileSync.Program - Running FileSync
+2016-12-22 01:02:16,635 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:02:16,650 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:02:16,665 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:02:16,679 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:02:16,683 INFO FileSync.Program - Program End.
+2016-12-22 01:03:03,741 INFO FileSync.Program - Running FileSync
+2016-12-22 01:03:03,834 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:03:03,839 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\06 TjikkahTjahh.mp3
+2016-12-22 01:03:03,845 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:03,859 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:03:03,874 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:03:03,879 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\06 TjikkahTjahh.mp3
+2016-12-22 01:03:03,885 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:03,899 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:03:03,904 INFO FileSync.Program - Program End.
+2016-12-22 01:03:25,679 INFO FileSync.Program - Running FileSync
+2016-12-22 01:03:25,771 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:03:25,776 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\05 TveBak.mp3
+2016-12-22 01:03:25,782 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,787 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\07 Radio.mp3
+2016-12-22 01:03:25,793 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,888 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\08 Alle Folk.mp3
+2016-12-22 01:03:25,893 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,898 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\09 Unger.mp3
+2016-12-22 01:03:25,904 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,909 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\10 Fabrik.mp3
+2016-12-22 01:03:25,915 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,922 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\11 Nøgne Mænd.mp3
+2016-12-22 01:03:25,928 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,935 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\12 3 Stk's Tøj.mp3
+2016-12-22 01:03:25,941 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,947 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\13 Krigsminister.mp3
+2016-12-22 01:03:25,952 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,957 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\14 Græder For Dem.mp3
+2016-12-22 01:03:25,963 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,968 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\15 PawPaw.mp3
+2016-12-22 01:03:25,974 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,979 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\16 DukkeMand.mp3
+2016-12-22 01:03:25,987 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:25,993 INFO FileSync.Syncronizer - Attempting to delete folder: F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:03:25,998 INFO FileSync.Syncronizer - Could not delete folder: F:\temp\SYNC_TEST\SLAVE1 - The directory is not empty.
+
+2016-12-22 01:03:26,013 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:03:26,028 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:03:26,033 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\05 TveBak.mp3
+2016-12-22 01:03:26,039 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,044 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\07 Radio.mp3
+2016-12-22 01:03:26,050 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,055 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\08 Alle Folk.mp3
+2016-12-22 01:03:26,060 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,066 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\09 Unger.mp3
+2016-12-22 01:03:26,072 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,077 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\10 Fabrik.mp3
+2016-12-22 01:03:26,082 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,087 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\11 Nøgne Mænd.mp3
+2016-12-22 01:03:26,093 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,099 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\12 3 Stk's Tøj.mp3
+2016-12-22 01:03:26,105 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,110 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\13 Krigsminister.mp3
+2016-12-22 01:03:26,115 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,120 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\14 Græder For Dem.mp3
+2016-12-22 01:03:26,126 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,132 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\15 PawPaw.mp3
+2016-12-22 01:03:26,137 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,143 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\16 DukkeMand.mp3
+2016-12-22 01:03:26,150 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:03:26,155 INFO FileSync.Syncronizer - Attempting to delete folder: F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:03:26,161 INFO FileSync.Syncronizer - Could not delete folder: F:\temp\SYNC_TEST\SLAVE2 - The directory is not empty.
+
+2016-12-22 01:03:26,176 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:03:26,181 INFO FileSync.Program - Program End.
+2016-12-22 01:04:54,482 INFO FileSync.Program - Running FileSync
+2016-12-22 01:04:54,576 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:04:54,590 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:04:54,605 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:04:54,620 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:04:54,626 INFO FileSync.Program - Program End.
+2016-12-22 01:05:46,868 INFO FileSync.Program - Running FileSync
+2016-12-22 01:05:46,959 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:05:46,969 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\1.txt
+2016-12-22 01:05:46,977 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:05:46,984 INFO FileSync.Syncronizer - Attempting to delete folder: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem
+2016-12-22 01:05:46,989 INFO FileSync.Syncronizer - Folder deleted.
+2016-12-22 01:05:47,001 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:05:47,016 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:05:47,030 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:05:47,036 INFO FileSync.Program - Program End.
+2016-12-22 01:07:34,141 INFO FileSync.Program - Running FileSync
+2016-12-22 01:07:34,169 INFO FileSync.Program - Masterpath not found. Stopping
+2016-12-22 01:07:34,174 INFO FileSync.Program - Program End.
+2016-12-22 01:07:49,458 INFO FileSync.Program - Running FileSync
+2016-12-22 01:07:49,540 INFO FileSync.GetFileList - Error occurred during directory-scan @ path F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:08:45,068 INFO FileSync.Program - Running FileSync
+2016-12-22 01:08:45,161 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:08:45,175 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:08:45,191 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:08:45,208 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:08:45,213 INFO FileSync.Program - Program End.
+2016-12-22 01:09:28,546 INFO FileSync.Program - Running FileSync
+2016-12-22 01:09:28,637 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:09:28,647 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\01 DK's Koner.mp3
+2016-12-22 01:09:28,653 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,659 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\02 Cigar.mp3
+2016-12-22 01:09:28,665 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,671 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\03 RøgLude.mp3
+2016-12-22 01:09:28,677 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,683 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\04 Penge På Græs.mp3
+2016-12-22 01:09:28,689 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,694 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\05 TveBak.mp3
+2016-12-22 01:09:28,700 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,706 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\06 TjikkahTjahh.mp3
+2016-12-22 01:09:28,712 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,718 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\07 Radio.mp3
+2016-12-22 01:09:28,724 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,730 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\08 Alle Folk.mp3
+2016-12-22 01:09:28,736 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,742 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\09 Unger.mp3
+2016-12-22 01:09:28,748 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,754 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\10 Fabrik.mp3
+2016-12-22 01:09:28,761 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,767 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\11 Nøgne Mænd.mp3
+2016-12-22 01:09:28,774 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,780 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\12 3 Stk's Tøj.mp3
+2016-12-22 01:09:28,786 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,791 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\13 Krigsminister.mp3
+2016-12-22 01:09:28,798 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,803 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\14 Græder For Dem.mp3
+2016-12-22 01:09:28,810 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,815 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\15 PawPaw.mp3
+2016-12-22 01:09:28,822 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,827 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten\16 DukkeMand.mp3
+2016-12-22 01:09:28,836 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,843 INFO FileSync.Syncronizer - Attempting to delete folder: F:\temp\SYNC_TEST\SLAVE1\BikStok Røgsystem\Over Stok og Sten
+2016-12-22 01:09:28,849 INFO FileSync.Syncronizer - Folder deleted.
+2016-12-22 01:09:28,860 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE1
+2016-12-22 01:09:28,875 INFO FileSync.Syncronizer - Starting compare function @ F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:09:28,884 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\01 DK's Koner.mp3
+2016-12-22 01:09:28,890 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,896 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\02 Cigar.mp3
+2016-12-22 01:09:28,902 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,908 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\03 RøgLude.mp3
+2016-12-22 01:09:28,914 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,919 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\04 Penge På Græs.mp3
+2016-12-22 01:09:28,926 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,932 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\05 TveBak.mp3
+2016-12-22 01:09:28,937 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,943 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\06 TjikkahTjahh.mp3
+2016-12-22 01:09:28,949 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,955 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\07 Radio.mp3
+2016-12-22 01:09:28,961 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,967 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\08 Alle Folk.mp3
+2016-12-22 01:09:28,973 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,979 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\09 Unger.mp3
+2016-12-22 01:09:28,986 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:28,992 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\10 Fabrik.mp3
+2016-12-22 01:09:28,998 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:29,004 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\11 Nøgne Mænd.mp3
+2016-12-22 01:09:29,010 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:29,016 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\12 3 Stk's Tøj.mp3
+2016-12-22 01:09:29,023 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:29,029 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\13 Krigsminister.mp3
+2016-12-22 01:09:29,035 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:29,040 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\14 Græder For Dem.mp3
+2016-12-22 01:09:29,047 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:29,053 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\15 PawPaw.mp3
+2016-12-22 01:09:29,059 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:29,065 INFO FileSync.Syncronizer - Attempting to delete file: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten\16 DukkeMand.mp3
+2016-12-22 01:09:29,073 INFO FileSync.Syncronizer - File deleted.
+2016-12-22 01:09:29,079 INFO FileSync.Syncronizer - Attempting to delete folder: F:\temp\SYNC_TEST\SLAVE2\BikStok Røgsystem\Over Stok og Sten
+2016-12-22 01:09:29,085 INFO FileSync.Syncronizer - Folder deleted.
+2016-12-22 01:09:29,097 INFO FileSync.Program - FileSync complete for F:\temp\SYNC_TEST\SLAVE2
+2016-12-22 01:09:29,102 INFO FileSync.Program - Program End.
